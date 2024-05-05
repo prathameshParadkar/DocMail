@@ -9,9 +9,25 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/icons": "^2.1.1",
+    "@chakra-ui/next-js": "^2.1.5",
+    "@chakra-ui/react": "^2.8.1",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "axios": "^1.6.0",
+    "draft-convert": "^2.1.13",
+    "draft-js": "^0.11.7",
+    "draft-js-export-html": "^1.4.1",
+    "draftjs-to-html": "^0.9.1",
+    "firebase": "^10.5.2",
+    "framer-motion": "^10.16.4",
+    "next": "14.0.1",
+    "node-mailjet": "^6.0.4",
+    "puppeteer": "^21.4.1",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.0.1"
+    "react-draft-wysiwyg": "^1.15.0",
+    "uuid": "^9.0.1"
   },
   "devDependencies": {
     "eslint": "^8",
